@@ -1,6 +1,6 @@
 # BootCamp Digital Inovation One :computer:
 
-**Repositório destinado aos exercícios e desafios do BootCamp Spread FullStack Developer da Digital Inovation One. **
+**Repositório destinado aos exercícios e desafios do BootCamp Spread FullStack Developer da Digital Inovation One.**
 
 Neste Bootcamp, estudarei as seguintes tecnologias: 
 
